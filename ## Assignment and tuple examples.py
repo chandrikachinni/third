@@ -239,14 +239,6 @@
 
 ##pro to take a tuple of numbers from keyboard and print Sum,average
 
-# numbers = tuple(map(float, input("Enter  separated by spaces: ").split()))
-# if len(numbers) > 0:
-#     total_sum = sum(numbers)
-#     average = total_sum / len(numbers)
-#     print(f"Sum: {total_sum}")
-#     print(f"Average: {average}")
-
-
 # number_tuple=input("enter tuple of numbers:")
 # numbers=tuple(float(n)for n in number_tuple.split(","))
 # sum=0
